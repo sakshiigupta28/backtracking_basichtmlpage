@@ -1,0 +1,16 @@
+blockquote{
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif  ;
+    color: #671A31 ;
+    font-weight: 900;
+}
+code{
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #671A31 ;
+    font-weight: 600;
+}
+i{
+    color: #1A6766;
+    font-weight: 600;
+}
